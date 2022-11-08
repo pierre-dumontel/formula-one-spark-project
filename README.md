@@ -18,7 +18,7 @@ The main purpose of this repo is to documentated for myself what I will from doi
 -Learning how Mounting Data Lake Container to DataBricks by creating Azure Storage Account and a Blob Storage Container.\
 -Learning how creating an Azure Service Principal, Creating Secret Scope and Secret in Key Vault.\
 -Connect DataBricks repo to GitHub, create a token, understand how we push notebooks and use versionning.\
--How to ingest a data file, use InferSchema, basic commands as the ways of select columns, renamed column or create new column.
+-How to ingest a data file, use InferSchema, basic commands as the ways of select columns, renamed column or create new column, deal with multilines json file and nested column 
 
 ### Limitation
 
