@@ -13,11 +13,12 @@ The main purpose of this repo is to documentated for myself what I will from doi
 
 ### Knowledge 
 
--Review and create a Cluster and a Cluster Pool.\
--Review Magic commands (using markdown and access file system) and DataBricks Utilities (such as dbutils).\
+-Review how to create a Cluster and a Cluster Pool.\
+-Review commands (using markdown and access file system) and DataBricks Utilities (such as dbutils).\
 -Learning how Mounting Data Lake Container to DataBricks by creating Azure Storage Account and a Blob Storage Container.\
 -Learning how creating an Azure Service Principal, Creating Secret Scope and Secret in Key Vault.\
--Connect DataBricks repo to GitHub, create a token, understand how we push notebooks and use versionning.
+-Connect DataBricks repo to GitHub, create a token, understand how we push notebooks and use versionning.\
+-How to ingest a data file, use InferSchema, basic commands as the ways of select columns, renamed column or create new column.
 
 ### Limitation
 
